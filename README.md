@@ -14,10 +14,12 @@ Taffy 塔菲云机场官网地址</br>
 
 [https://331024.de/archives/choujiang](https://331024.de/archives/choujiang)
 ## 邀请码
+`此邀请码注册，可得1小时试用套餐`
 ```bash
 jqMqITHk
 ```
 ## 优惠码/折扣码
+`未知折扣，截止日期：未知`
 ```bash
 taffy666
 ```
